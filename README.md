@@ -1,4 +1,4 @@
-# liliapppp
+# VERSION2
 
 Este proyecto es una aplicación desarrollada en [especificar tecnología: React, Node.js, etc.]. Este README describe la estructura y el propósito de cada carpeta y archivo clave para facilitar la colaboración y el mantenimiento.
 
